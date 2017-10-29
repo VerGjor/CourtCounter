@@ -8,9 +8,9 @@ To complete this project, you will need to build a Score Keeper app. You can eit
 
 In either case, you will need to select a sport or game to track. Importantly, you'll need to select a sport with either multiple ways to score points or multiple metrics to track. If you have trouble choosing, here are some suggestions:
 
-Baseball Scores App: Track both runs and outs
-American Football Scores App: Add a button for each of the 4 amounts of points a team can score in american football.
-Football Scores app: Track both points and fouls
+Baseball Scores App: Track both runs and outs <br>
+American Football Scores App: Add a button for each of the 4 amounts of points a team can score in american football.<br>
+Football Scores app: Track both points and fouls<br>
 Your project will be evaluated using the Score Keeper project rubric.
 
 <h1>Information</h1>
